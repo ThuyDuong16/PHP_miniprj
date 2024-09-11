@@ -1,0 +1,11 @@
+.item_menu {
+    background-color: aquamarine;
+}
+
+.menu li {
+    background-color: aquamarine;
+}
+
+li:hover {
+    background-color: cadetblue;
+}
